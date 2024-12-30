@@ -1,0 +1,1 @@
+42, 15, 15, 42, 100, manzana, pera, manzana, kiwi, kiwi, pera, pera

@@ -1,0 +1,12 @@
+Prueba 1: Datos numéricos
+Entrada: 10, 20, 20, 30, 40, 10, 50, 40, 40, 10
+
+Prueba 2: Datos textuales
+Entrada: manzana, pera, pera, kiwi, manzana, naranja, kiwi, manzana
+
+Prueba 3: Mezcla de datos
+Entrada: 10, manzana, pera, 20, pera, kiwi, 10, naranja, 40, 50, pera, kiwi
+
+Prueba 4: Archivo `datos.txt`
+Contenido:
+42, 15, 15, 42, 100, manzana, pera, manzana, kiwi, kiwi, pera, pera
